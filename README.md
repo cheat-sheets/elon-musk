@@ -1,9 +1,17 @@
 # Awesome Elon Musk
 
+## Table of Contents
+
+- [Interviews](#interviews)
+- [Tesla Earning Calls](#tesla-earning-calls)
+
 # Interviews
 
 ## 2024
 
+- 2024-11-05: [Tucker Carlson Interview](https://x.com/MAGAResource/status/1854166492490969212)
+- 2024-11-04: [Joe Rogan Experience Podcast, episode #2223](https://x.com/elonmusk/status/1853614981624840695)
+- 2024-05-24: [Elon Musk delivers speech at VivaTech](https://www.youtube.com/watch?v=tMdFGrnp5XI)
 - 2024-04-08: [X Spaces AI](https://www.youtube.com/watch?v=FPpPTp7FIHY)
 - 2024-04-06: [Elon SpaceX Update](https://www.youtube.com/watch?v=OffMED-KXIs)
 - 2024-03-25: [2024 Abundance360 Summit](https://www.youtube.com/watch?v=akXMYvKjUxM)
@@ -17,7 +25,8 @@
 - 2024-01-22: [Elon & Ben Shapiro](https://www.youtube.com/watch?v=JGdbFGANapk)
 - 2024-01-16: [Dean Phillips Spaces](https://www.youtube.com/watch?v=XZLEUZlFzc0)
 - 2024-01-12: [SpaceX 2023 All Hands](https://www.youtube.com/watch?v=68cKroVKnA0)
-- 
+- 2024-01-05: [Elon Musk on Abundance, AGI, and The Media in 2024 | EP #79 (X Spaces)](https://www.youtube.com/watch?v=_PcL4w--uNs)
+
 ## 2023
 
 - 2023-12-21: [Cathie Wood & Elon Musk](https://www.youtube.com/watch?v=kCHdYpHwBDk)
@@ -204,3 +213,9 @@
 - 1998-11-22: [Elon on the Internet](https://www.youtube.com/watch?v=KnXee-GN8AE)
 
 The list of interviews, up to 2024-04-08, has been sourced from https://www.everyelonmuskinterview.com/
+
+# Tesla Earning Calls
+
+## 2024
+
+- Q3: [Tesla Q3 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ScxNmPREZtg&ab_channel=Tesla)
