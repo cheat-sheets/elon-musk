@@ -14,7 +14,7 @@
 - 2024-10-29: [Elon musk gives Neuralink talk at the Congress of Neurological Surgeons](https://www.youtube.com/watch?v=j0PHU4g8Cy0)
 - 2024-10-29: [Elon Musk and Dr. Peter Diamandis #FII8 Conversation on the Future of #AI](https://www.youtube.com/watch?v=3JkkWfzc4Jg)
 - 2024-10-26: [Town Hall in Lancaster, Pennsylvania](https://x.com/america/status/1850396569041805567)
-- 2024-10-20: [lon Musk Speaks at a Town Hall in Harrisburg, Pennsylvania](https://x.com/america/status/1847781332673581340)
+- 2024-10-20: [Elon Musk Speaks at a Town Hall in Harrisburg, Pennsylvania](https://x.com/america/status/1847781332673581340)
 - 2024-10-10: [We, Robot | Tesla Cybercab Unveil](https://www.youtube.com/watch?v=6v6dbxPlsXs)
 - 2024-10-08: [Interview with Tucker Carlson](https://x.com/TuckerCarlson/status/1843375397024485778)
 - 2024-09-10: [Elon Musk | All-In Summit 2024](https://www.youtube.com/watch?v=pSFvOUswFwA)
