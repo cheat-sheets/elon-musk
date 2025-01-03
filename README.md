@@ -230,6 +230,12 @@
 
 The list of interviews, up to 2024-04-08, has been sourced from https://www.everyelonmuskinterview.com/
 
+# Quotes
+
+- "If you want to do things like me you have to learn how to be good at technology, 
+study engineering, physics that kind of thing, understand how the World works and try to be as accurate as possible, 
+try to be creative, you have to think until your brain hurts.", https://x.com/iam_smx/status/1851984833125179621
+
 # Tesla Earning Calls
 
 ## 2024
