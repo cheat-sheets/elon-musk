@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Interviews](#interviews)
+- [Quotes](#quotes)
 - [Tesla Earning Calls](#tesla-earning-calls)
 
 # Interviews
