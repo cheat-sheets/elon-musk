@@ -1,4 +1,4 @@
-# Awesome Elon Musk
+# Elon Musk
 
 ## Table of Contents
 
