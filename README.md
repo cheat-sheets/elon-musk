@@ -8,6 +8,10 @@
 
 # Interviews
 
+## 2025
+
+- 2025-01-10: [Conversation between Elon Musk and Alice Weidel, co-chairwoman of Germany's AfD party](https://x.com/ElonClipsX/status/1877454219827098052)
+
 ## 2024
 
 - 2024-11-05: [Tucker Carlson Interview after US Election](https://x.com/MAGAResource/status/1854166492490969212)
