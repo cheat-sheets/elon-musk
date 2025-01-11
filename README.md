@@ -134,11 +134,12 @@
 
 ## 2019
 
-- 2019-11-12: [Lex Fridman #2](https://www.youtube.com/watch?v=cIQ36Kt7UVg)
-- 2019-10-01: [Everyday Astronaut Starship Update](https://www.youtube.com/watch?v=f3lUEnMaiAU)
-- 2019-08-29: [Elon vs Jack Ma](https://www.youtube.com/watch?v=WVW50KRaBd8)
-- 2019-06-13: [E3 Coliseum with Todd Howard](https://www.youtube.com/watch?v=dEv99vxKjVI)
-- 2019-04-12: [Lex Fridman #1](https://www.youtube.com/watch?v=MOy3MTZ9Dyg)
+- 2019-11-12: [Lex Fridman #2](https://www.youtube.com/watch?v=smK9dgdTl40)
+- 2019-10-01: [Everyday Astronaut Starship Update](https://www.youtube.com/watch?v=cIQ36Kt7UVg)
+- 2019-08-29: [Elon vs Jack Ma](https://www.youtube.com/watch?v=f3lUEnMaiAU)
+- 2019-06-13: [E3 Coliseum with Todd Howard](https://www.youtube.com/watch?v=WVW50KRaBd8)
+- 2019-04-12: [Lex Fridman #1](https://www.youtube.com/watch?v=dEv99vxKjVI)
+- 2019-02-21: [Elon Musk Podcast Interview with Ark Invest](https://www.youtube.com/watch?v=MOy3MTZ9Dyg)
 
 ## 2018
 
