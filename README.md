@@ -83,6 +83,7 @@
 - 2023-04-18: [MMA Possible Miami](https://www.youtube.com/watch?v=ypZNWjPpOuI)
 - 2023-04-17: [Tucker Carlson Interview](https://www.youtube.com/watch?v=LCOe3a9EHJs)
 - 2023-04-16: [Starship Launch Spaces](https://www.youtube.com/watch?v=czafzFAEIUA)
+- 2023-04-12: [Elon BBC interview with James Clayton](https://www.youtube.com/watch?v=bRkcLYbvApU&ab_channel=NimrodKamer)
 - 2023-03-31: [The Algorithm Goes Open Source](https://www.youtube.com/watch?v=rtZQ1ZEQJUI)
 - 2023-03-08: [Morgan Stanley Conference](https://www.youtube.com/watch?v=4u_e7tNIjrw)
 - 2023-02-14: [World Government Summit 2023](https://www.youtube.com/watch?v=2IVQwzFzsBo)
