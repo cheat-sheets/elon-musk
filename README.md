@@ -113,24 +113,34 @@
 
 ## 2021
 
-- 2021-12-28: [Lex Fridman #3](https://www.youtube.com/watch?v=jvGnw1sHh9M)
-- 2021-12-21: [Babylon Bee Interview](https://www.youtube.com/watch?v=PbVSZvC7UxY)
-- 2021-12-13: [TIME Person of the Year](https://www.youtube.com/watch?v=T_Fa50Zc_3Y)
-- 2021-12-13: [Hardcore History](https://www.youtube.com/watch?v=lSD_vpfikbE)
-- 2021-12-06: [WSJ CEO Council Summit](https://www.youtube.com/watch?v=kr9zbPWqmhg)
-- 2021-11-17: [SSB & BPA Joint Fall Meeting](https://www.youtube.com/watch?v=HZP67-DECVw)
-- 2021-09-28: [CodeCon 2021](https://www.youtube.com/watch?v=2MDs56gT-a8)
-- 2021-09-24: [Italian TechWeek](https://www.youtube.com/watch?v=9Zlnbs-NBUI)
-- 2021-08-11: [Starbase Tour Part 3](https://www.youtube.com/watch?v=SA8ZBJWo73E)
-- 2021-08-11: [Starbase Tour Part 2](https://www.youtube.com/watch?v=t705r8ICkRw)
-- 2021-08-11: [Starbase Tour Part 1](https://www.youtube.com/watch?v=Zwx_7XAJ3p0)
-- 2021-07-21: [The B Word Conference](https://www.youtube.com/watch?v=RcnVTgrgThE)
-- 2021-07-15: [National Governer’s Association](https://www.youtube.com/watch?v=aTXwXlRDGVI)
-- 2021-06-29: [Starlink Update](https://www.youtube.com/watch?v=fCF8I_X1qKI)
-- 2021-05-07: [SNL Monologue](https://www.youtube.com/watch?v=BN88HPUm6j0)
-- 2021-04-22: [XPPRIZE discussion](https://www.youtube.com/watch?v=1GZDJLEcIB4)
-- 2021-02-12: [Joe Rogan #3](https://www.youtube.com/watch?v=YAtLTLiqNwg)
-- 2021-02-02: [Sandy Monro 1-on-1](https://www.youtube.com/watch?v=4_qxJEsvvSA)
+- 2021-12-28: [Lex Fridman #3](https://youtu.be/DxREm3s1scA)
+- 2021-12-21: [Babylon Bee Interview](https://www.youtube.com/watch?v=jvGnw1sHh9M)
+- 2021-12-13: [TIME Person of the Year](https://youtu.be/PbVSZvC7UxY)
+- 2021-12-13: [Hardcore History](https://youtu.be/T_Fa50Zc_3Y)
+- 2021-12-06: [WSJ CEO Council Summit](https://www.youtube.com/watch?v=lSD_vpfikbE)
+- 2021-11-17: [SSB & BPA Joint Fall Meeting](https://www.youtube.com/watch?v=kr9zbPWqmhg)
+- 2021-09-28: [CodeCon 2021](https://www.youtube.com/watch?v=HZP67-DECVw)
+- 2021-09-24: [Italian TechWeek](https://www.youtube.com/watch?v=2MDs56gT-a8)
+- 2021-08-11: [Starbase Tour Part 3](https://www.youtube.com/watch?v=9Zlnbs-NBUI)
+- 2021-08-11: [Starbase Tour Part 2](https://www.youtube.com/watch?v=SA8ZBJWo73E)
+- 2021-08-11: [Starbase Tour Part 1](https://www.youtube.com/watch?v=t705r8ICkRw)
+- 2021-07-21: [The B Word Conference](https://www.youtube.com/watch?v=Zwx_7XAJ3p0)
+- 2021-06-29: [Starlink Update](https://www.youtube.com/watch?v=RcnVTgrgThE)
+- 2021-05-07: [SNL Monologue](https://www.youtube.com/watch?v=fCF8I_X1qKI)
+- 2021-04-22: [XPPRIZE discussion](https://www.youtube.com/watch?v=BN88HPUm6j0)
+- 2021-02-12: [Joe Rogan #3](https://www.youtube.com/watch?v=1GZDJLEcIB4&t=34s)
+- 2021-02-02: [Sandy Monro 1-on-1](https://www.youtube.com/watch?v=YAtLTLiqNwg)
+- 2021-02-01: [Clubhouse Interview](https://www.youtube.com/watch?v=4_qxJEsvvSA)
+
+## 2020
+
+- 2020-12-09: [Wall Street Journal Interview](https://www.youtube.com/watch?v=V1nQFotzQMQ)
+- 2020-12-01: [2020 Axel Springer Award](https://www.youtube.com/watch?v=AF2HXId2Xhg)
+- 2020-05-27: [Everyday Astronaut + Jim Bridenstine](https://www.youtube.com/watch?v=p4ZLysa9Qqg)
+- 2020-05-23: [Jay Leno 2020](https://www.youtube.com/watch?v=O3BH8edQVZ4)
+- 2020-05-07: [Joe Rogan #2](https://www.youtube.com/watch?v=RcYjXbSJBN8)
+- 2020-04-24: [Hack Club Interview](https://www.youtube.com/watch?v=riru9OzScwk)
+- 2020-02-09: [Third Row Tesla Podcast](https://www.youtube.com/watch?v=J9oEc0wCQDE)
 
 ## 2019
 
@@ -143,38 +153,44 @@
 
 ## 2018
 
-- 2018-12-09: [60 Minutes - “I do not respect the SEC”](https://www.youtube.com/watch?v=MevKTPN4ozw)
-- 2018-09-06: [Joe Rogan #1](https://www.youtube.com/watch?v=kzlUyrccbos)
-- 2018-08-17: [MKBHD Elon Interview](https://www.youtube.com/watch?v=mr9kK0_7x08)
-- 2018-08-17: [MKBHD Factory Tour](https://www.youtube.com/watch?v=ycPr5-27vSI)
+- 2018-12-09: [60 Minutes - “I do not respect the SEC”](https://www.youtube.com/playlist?list=PLI1yx5Z0Lrv7vSu4BMeULh3A9-GIz4mHR)
+- 2018-08-17: [MKBHD Elon Interview](https://www.youtube.com/watch?v=MevKTPN4ozw)
+- 2018-08-17: [MKBHD Factory Tour](https://www.youtube.com/watch?v=mr9kK0_7x08)
+- 2018-09-06: [Joe Rogan #1](https://www.youtube.com/watch?v=ycPr5-27vSI)
+- 2018-03-11: [SXSW Conference](https://www.youtube.com/watch?v=kzlUyrccbos)
 
 ## 2017
 
-- 2017-09-28: [Making Life Multiplanetary](https://www.youtube.com/watch?v=BqvBhhTtUm4)
-- 2017-07-19: [ISS R&D Conference](https://www.youtube.com/watch?v=b3lzEQANdHk)
-- 2017-07-12: [South Australia Press Meeting](https://www.youtube.com/watch?v=zIwLWfaAg-8)
-- 2017-05-03: [TED Conference 2017](https://www.youtube.com/watch?v=rCoFKUJ_8Yo)
-- 2017-02-15: [WGS17](https://www.youtube.com/watch?v=h0962biiZa4)
+- 2017-09-28: [Making Life Multiplanetary](https://www.youtube.com/watch?v=tdUX3ypDVwI)
+- 2017-07-19: [ISS R&D Conference](https://www.youtube.com/watch?v=BqvBhhTtUm4)
+- 2017-07-15: [National Governer’s Association](https://www.youtube.com/watch?v=b3lzEQANdHk)
+- 2017-07-12: [South Australia Press Meeting](https://www.youtube.com/watch?v=aTXwXlRDGVI)
+- 2017-05-03: [TED Conference 2017](https://www.youtube.com/watch?v=zIwLWfaAg-8)
+- 2017-02-15: [WGS17](https://www.youtube.com/watch?v=rCoFKUJ_8Yo)
+- 2017-01-30: [Future of Life Institute Talk](https://www.youtube.com/watch?v=h0962biiZa4)
 
 ## 2016
 
-- 2016-09-27: [Making Humans a Multiplanetary Species](https://www.youtube.com/watch?v=tnBQmEqBCY0)
-- 2016-09-15: [Elon Musk and Sam Altman](https://www.youtube.com/watch?v=wsixsRI-Sz4)
-- 2016-06-02: [Code Conference 2016](https://www.youtube.com/watch?v=pIRqB5iqWA8)
-- 2016-01-26: [StartmeupHK Venture Forum](https://www.youtube.com/watch?v=0871VJfvD1c)
+- 2016-09-27: [Making Humans a Multiplanetary Species](https://www.youtube.com/watch?v=H7Uyfqi_TE8)
+- 2016-09-15: [Elon Musk and Sam Altman](https://www.youtube.com/watch?v=tnBQmEqBCY0)
+- 2016-06-02: [Code Conference 2016](https://www.youtube.com/watch?v=wsixsRI-Sz4)
+- 2016-01-26: [StartmeupHK Venture Forum](https://www.youtube.com/watch?v=pIRqB5iqWA8)
+- 2016-01-13: [BBC Interview](https://www.youtube.com/watch?v=0871VJfvD1c)
 
 ## 2015
 
-- 2015-10-08: [Elon Musk and Sam Altman Vanity Fair](https://www.youtube.com/watch?v=SVk1hb0ZOrE)
-- 2015-10-07: [Stanford - Elon Musk’s Vision of The Future](https://www.youtube.com/watch?v=ZmEg95wPiVU)
-- 2015-07-07: [ISSRDC 2015](https://www.youtube.com/watch?v=5RkMwBUFgFM)
-- 2015-03-22: [Elon Interview with Neil deGrasse Tyson](https://www.youtube.com/watch?v=TDm6Snkle70)
-- 2015-03-17: [GTC 2015](https://www.youtube.com/watch?v=USs8OLkYcws)
+- 2015-10-08: [Elon Musk and Sam Altman Vanity Fair](https://www.youtube.com/watch?v=SqEo107j-uw)
+- 2015-10-07: [Stanford - Elon Musk’s Vision of The Future](https://www.youtube.com/watch?v=SVk1hb0ZOrE)
+- 2015-07-07: [ISSRDC 2015](https://www.youtube.com/watch?v=ZmEg95wPiVU)
+- 2015-03-22: [Elon Interview with Neil deGrasse Tyson](https://www.youtube.com/watch?v=5RkMwBUFgFM)
+- 2015-03-17: [GTC 2015](https://www.youtube.com/watch?v=TDm6Snkle70)
+- 2015-01-14: [2015 Detroit Auto Show](https://www.youtube.com/watch?v=USs8OLkYcws)
 
 ## 2014
 
 - 2014-11-13: [ONS 2014](https://www.youtube.com/watch?v=0ZsVxSDB7NY)
-- 2014-10-17: [Vanity Fair 2014](https://www.youtube.com/watch?v=G-xUbHW3-e0)
+- 2014-10-17: [Vanity Fair 2014](https://www.youtube.com/watch?v=fPsHN1KyRQ8)
+- 2014-06-25: [Elon Musk with Stephen Colbert](https://www.youtube.com/watch?v=G-xUbHW3-e0)
 
 ## 2013
 
