@@ -266,4 +266,13 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 
 ## 2024
 
-- Q3: [Tesla Q3 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ScxNmPREZtg&ab_channel=Tesla)
+- 2024-Q3: [Tesla Q3 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ScxNmPREZtg&ab_channel=Tesla) 
+- 2024-Q2: [Tesla Q2 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ktkCRVxTuEI) 
+- 2024-Q1: [Tesla Q1 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=o81Rs-w3YMY) 
+- 2023-Q4: [Tesla Q4 and full year 2023 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=A_2Z-AEtdAg) 
+- 2023-Q3: [Tesla Q3 2023 Financial Results and Q&A Webcast (Full Audio)](https://www.youtube.com/watch?v=bIHPLnGmyx0) 
+- 2023-Q2: [Tesla Q2 2023 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=eUEojntzzAk) 
+- 2023-Q1: [Tesla Q1 2023 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=3MVIWeU36ZY) 
+- 2022-Q4: [Tesla Q4 and full year 2022 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=BgbF4ZqTxTc) 
+- 2022-Q3: [Tesla Q3 2022 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=7FUMrHyStf0) 
+- [Full list](https://ir.tesla.com/#quarterly-disclosure)
