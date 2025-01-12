@@ -91,25 +91,27 @@
 
 ## 2022
 
-- 2022-11-15: [G20 Interview](https://www.youtube.com/watch?v=QsR05Egnook)
-- 2022-11-14: [Indonesian Education Minister](https://www.youtube.com/watch?v=l8sMFMBfFrM)
+- 2022-11-15: [G20 Interview](https://youtu.be/QsR05Egnook)
+- 2022-11-14: [Indonesian Education Minister](https://youtu.be/l8sMFMBfFrM)
 - 2022-11-09: [Twitter Spaces - Advertisers](https://www.youtube.com/watch?v=GqhFQpRZ_5U)
-- 2022-11-04: [Ron Baron Conference](https://www.youtube.com/watch?v=P7wUNMyK3Gs)
-- 2022-09-22: [Jay Leno SpaceX Tour](https://www.youtube.com/watch?v=wluBlr1j4qk)
+- 2022-11-04: [Ron Baron Conference](https://youtu.be/P7wUNMyK3Gs)
+- 2022-09-22: [Jay Leno SpaceX Tour](https://youtu.be/wluBlr1j4qk)
 - 2022-08-30: [ONS Norway 2022](https://www.youtube.com/watch?v=HL4rCFboo7o)
-- 2022-08-05: [Full Send Podcast](https://www.youtube.com/watch?v=fXS_gkWAIs0)
-- 2022-07-01: [Getting Stoned Podcast](https://www.youtube.com/watch?v=TjBA6jy4ako)
-- 2022-06-21: [Bloomberg interview - Qatar Economic Forum](https://www.youtube.com/watch?v=FLvTcRrzy20)
-- 2022-06-16: [Twitter All Hands Meeting](https://www.youtube.com/watch?v=u5w_VkAx6tc)
-- 2022-06-03: [Silicon Valley Tesla Owners (Part 3)](https://www.youtube.com/watch?v=iHmSrK238vI)
-- 2022-06-03: [Silicon Valley Tesla Owners (Part 2)](https://www.youtube.com/watch?v=AeeeEDSekG8)
-- 2022-06-03: [Silicon Valley Tesla Owners (Part 1)](https://www.youtube.com/watch?v=CnxzrX9tNoc)
-- 2022-05-16: [All-In Summit](https://www.youtube.com/watch?v=XP5k3ZzPf_0)
-- 2022-05-14: [2022 Starbase Tour Part 2](https://www.youtube.com/watch?v=3Ux6B3bvO0w)
-- 2022-05-14: [2022 Starbase Tour Part 1](https://www.youtube.com/watch?v=VfyrQVhfGZc)
-- 2022-05-10: [Future of the Car](https://www.youtube.com/watch?v=cdZZpaB2kDM)
-- 2022-04-14: [TED Live Interview 2022](https://www.youtube.com/watch?v=YRvf00NooN8)
-- 2022-03-26: [Axel Springer 2022 Interview](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
+- 2022-08-05: [Full Send Podcast](https://youtu.be/fXS_gkWAIs0)
+- 2022-07-01: [Getting Stoned Podcast](https://www.youtube.com/watch?v=rQI2Ls32b80)
+- 2022-06-21: [Bloomberg interview - Qatar Economic Forum](https://www.youtube.com/watch?v=TjBA6jy4ako)
+- 2022-06-16: [Twitter All Hands Meeting](https://www.youtube.com/watch?v=FLvTcRrzy20)
+- 2022-06-03: [Silicon Valley Tesla Owners (Part 3)](https://www.youtube.com/watch?v=u5w_VkAx6tc)
+- 2022-06-03: [Silicon Valley Tesla Owners (Part 2)](https://www.youtube.com/watch?v=iHmSrK238vI)
+- 2022-06-03: [Silicon Valley Tesla Owners (Part 1)](https://www.youtube.com/watch?v=AeeeEDSekG8)
+- 2022-05-16: [All-In Summit](https://www.youtube.com/watch?v=CnxzrX9tNoc)
+- 2022-05-14: [2022 Starbase Tour Part 2](https://www.youtube.com/watch?v=XP5k3ZzPf_0&list=WL&index=1&t=1171s)
+- 2022-05-14: [2022 Starbase Tour Part 1](https://www.youtube.com/watch?v=3Ux6B3bvO0w)
+- 2022-05-10: [Future of the Car](https://www.youtube.com/watch?v=VfyrQVhfGZc)
+- 2022-04-14: [TED Live Interview 2022](https://www.youtube.com/watch?v=cdZZpaB2kDM)
+- 2022-04-06: [TED Gigafactory Interview](https://www.youtube.com/watch?v=YRvf00NooN8)
+- 2022-03-26: [Axel Springer 2022 Interview](https://www.youtube.com/watch?v=2WX_mgnAFA0)
+- 2022-02-10: [Starship Update](https://www.youtube.com/watch?v=3N7L8Xhkzqo)
 
 ## 2021
 
@@ -139,7 +141,7 @@
 - 2020-05-27: [Everyday Astronaut + Jim Bridenstine](https://www.youtube.com/watch?v=p4ZLysa9Qqg)
 - 2020-05-23: [Jay Leno 2020](https://www.youtube.com/watch?v=O3BH8edQVZ4)
 - 2020-05-07: [Joe Rogan #2](https://www.youtube.com/watch?v=RcYjXbSJBN8)
-- 2020-04-24: [Hack Club Interview](https://www.youtube.com/watch?v=riru9OzScwk)
+- 2020-02-28: [Air Warfare Symposium](https://www.youtube.com/watch?v=sp8smJFaKYE)
 - 2020-02-09: [Third Row Tesla Podcast](https://www.youtube.com/watch?v=J9oEc0wCQDE)
 
 ## 2019
@@ -149,7 +151,7 @@
 - 2019-08-29: [Elon vs Jack Ma](https://www.youtube.com/watch?v=f3lUEnMaiAU)
 - 2019-06-13: [E3 Coliseum with Todd Howard](https://www.youtube.com/watch?v=WVW50KRaBd8)
 - 2019-04-12: [Lex Fridman #1](https://www.youtube.com/watch?v=dEv99vxKjVI)
-- 2019-02-21: [Elon Musk Podcast Interview with Ark Invest](https://www.youtube.com/watch?v=MOy3MTZ9Dyg)
+- 2019-02-20: [ARK Invest Interview](https://www.youtube.com/watch?v=MOy3MTZ9Dyg)
 
 ## 2018
 
@@ -184,7 +186,7 @@
 - 2015-07-07: [ISSRDC 2015](https://www.youtube.com/watch?v=ZmEg95wPiVU)
 - 2015-03-22: [Elon Interview with Neil deGrasse Tyson](https://www.youtube.com/watch?v=5RkMwBUFgFM)
 - 2015-03-17: [GTC 2015](https://www.youtube.com/watch?v=TDm6Snkle70)
-- 2015-01-14: [2015 Detroit Auto Show](https://www.youtube.com/watch?v=USs8OLkYcws)
+- 2015-01-14: [2015 Detroit Auto Show](https://youtu.be/USs8OLkYcws?si=MfQDpEBsc71w_D_F)
 
 ## 2014
 
@@ -196,7 +198,7 @@
 
 - 2013-11-18: [Los Angeles World Affairs Council](https://www.youtube.com/watch?v=ODpuYSG4eQc)
 - 2013-11-13: [DealBook Conference](https://www.youtube.com/watch?v=rixp9hbQgbM)
-- 2013-10-24: [BBC 2013](https://www.youtube.com/watch?v=K-uLAFb7GOg)
+- 2013-10-24: [BBC 2013](https://www.youtube.com/watch?v=K-uLAFb7GOg&t=71s)
 - 2013-09-16: [Montana Jobs Summit](https://www.youtube.com/watch?v=fWCCcgVwNJ0)
 - 2013-05-29: [D11 Conference](https://www.youtube.com/watch?v=UiPO4BUfov8)
 - 2013-04-29: [Milken Institute Interview](https://www.youtube.com/watch?v=T55CcN5c5as)
