@@ -178,53 +178,59 @@
 
 ## 2013
 
-- 2013-11-18: [Los Angeles World Affairs Council](https://www.youtube.com/watch?v=rixp9hbQgbM)
+- 2013-11-18: [Los Angeles World Affairs Council](https://www.youtube.com/watch?v=ODpuYSG4eQc)
 - 2013-11-13: [DealBook Conference](https://www.youtube.com/watch?v=rixp9hbQgbM)
-- 2013-10-24: [BBC 2013](https://www.youtube.com/watch?v=fWCCcgVwNJ0)
-- 2013-09-16: [Montana Jobs Summit](https://www.youtube.com/watch?v=UiPO4BUfov8)
-- 2013-05-29: [D11 Conference](https://www.youtube.com/watch?v=T55CcN5c5as)
-- 2013-04-29: [Milken Institute Interview](https://www.youtube.com/watch?v=vDwzmJpI4io)
-- 2013-04-22: [Khan Academy](https://www.youtube.com/watch?v=LeQMWdOMa-A)
-- 2013-03-19: [TED 2013](https://www.youtube.com/watch?v=jMkwsSAIAfY)
-- 2013-03-18: [SXSW 2013](https://www.youtube.com/watch?v=IgKWPdJWuBQ)
-- 2013-03-15: [Elon Musk and Rain Wilson](https://www.youtube.com/watch?v=AHHwXUm3iIg)
+- 2013-10-24: [BBC 2013](https://www.youtube.com/watch?v=K-uLAFb7GOg)
+- 2013-09-16: [Montana Jobs Summit](https://www.youtube.com/watch?v=fWCCcgVwNJ0)
+- 2013-05-29: [D11 Conference](https://www.youtube.com/watch?v=UiPO4BUfov8)
+- 2013-04-29: [Milken Institute Interview](https://www.youtube.com/watch?v=T55CcN5c5as)
+- 2013-04-22: [Khan Academy](https://www.youtube.com/watch?v=vDwzmJpI4io)
+- 2013-03-19: [TED 2013](https://www.youtube.com/watch?v=LeQMWdOMa-A)
+- 2013-03-18: [SXSW 2013](https://www.youtube.com/watch?v=LeQMWdOMa-A)
+- 2013-03-19: [TED 2013](https://www.youtube.com/watch?v=IgKWPdJWuBQ)
+- 2013-03-15: [Elon Musk and Rain Wilson](https://www.youtube.com/watch?v=jMkwsSAIAfY)
+- 2013-01-22: [CHM Revolutionaries](https://www.youtube.com/watch?v=AHHwXUm3iIg)
 
 ## 2012
 
-- 2012-11-22: [Oxford Martin School Talk](https://www.youtube.com/watch?v=wB3R5Xk2gTY)
-- 2012-11-16: [Royal Aeronautical Society](https://www.youtube.com/watch?v=L-s_3b5fRd8)
-- 2012-09-07: [Foundation 20](https://www.youtube.com/watch?v=QLK_oIEJ860)
-- 2012-08-11: [TriosMediaVids Mentor Style Interview](https://www.youtube.com/watch?v=PK0kTcJFnVk)
-- 2012-08-09: [Mars Pioneer Award](https://www.youtube.com/watch?v=uegOUmgKB4E)
-- 2012-07-17: [PandoMonthly Fireside Chat](https://www.youtube.com/watch?v=23GzpbNUyI4)
+- 2012-11-22: [Oxford Martin School Talk](https://www.youtube.com/watch?v=c1HZIQliuoA)
+- 2012-11-16: [Royal Aeronautical Society](https://www.youtube.com/watch?v=wB3R5Xk2gTY)
+- 2012-09-07: [Foundation 20](https://www.youtube.com/watch?v=L-s_3b5fRd8)
+- 2012-08-11: [TriosMediaVids Mentor Style Interview](https://www.youtube.com/watch?v=QLK_oIEJ860)
+- 2012-08-09: [Mars Pioneer Award](https://www.youtube.com/watch?v=PK0kTcJFnVk)
+- 2012-07-17: [PandoMonthly Fireside Chat](https://www.youtube.com/watch?v=uegOUmgKB4E)
+- 2012-07-17: [60 Minutes](https://www.youtube.com/watch?v=23GzpbNUyI4)
 
 ## 2011
 
-- 2011-10-17: [The Way of The Future](https://www.youtube.com/watch?v=bg06ojAR_lE)
+- 2011-10-17: [The Way of The Future](https://www.youtube.com/watch?v=B1OPxitgvmw)
 - 2011-09-29: [Motley Fool HQ Interview](https://www.youtube.com/watch?v=bg06ojAR_lE)
-- 2011-09-28: [NPC Luncheon](https://www.youtube.com/watch?v=pWjPLY3uLtk)
-- 2011-04-05: [Falcon Heavy Press Conference](https://www.youtube.com/watch?v=yBPV73Fq820)
+- 2011-09-28: [NPC Luncheon](https://www.youtube.com/watch?v=xrVD3tcVWTY)
+- 2011-04-05: [Falcon Heavy Press Conference](https://www.youtube.com/watch?v=pWjPLY3uLtk)
+- 2011-04-05: [California Q&A](https://www.youtube.com/watch?v=yBPV73Fq820)
 
 ## 2009
 
-- 2009-08-30: [Valley Girl](https://www.youtube.com/watch?v=ktkV0N0Oask)
-- 2009-08-11: [Charlie Rose](https://www.youtube.com/watch?v=bUYY3QT82B8)
+- 2009-08-30: [Valley Girl](https://www.youtube.com/watch?v=SiIWcoeWeN8)
+- 2009-08-11: [Charlie Rose](https://www.youtube.com/watch?v=ktkV0N0Oask)
 - 2009-07-06: [ISDC 2009](https://www.youtube.com/watch?v=bUYY3QT82B8)
-- 2009-04-07: [Churchill Club Interview](https://www.youtube.com/watch?v=MxB7uNgS6J4)
-- 2009-04-05: [KPCS 2009](https://www.youtube.com/watch?v=sHGSoFSMoEA)
+- 2009-04-07: [Churchill Club Interview](https://www.youtube.com/watch?v=n1j0yHOxcL0)
+- 2009-04-05: [KPCS 2009](https://www.youtube.com/watch?v=MxB7uNgS6J4)
+- 2009-03-04: [A Passionate Elon Defends Tesla](https://www.youtube.com/watch?v=sHGSoFSMoEA)
 
 
 ## 2008
 
-- 2008-11-07: [Web 2.0 Summit](https://www.youtube.com/watch?v=s3RlCVtQ6mA)
-- 2008-09-18: [Zeitgeist 2008](https://www.youtube.com/watch?v=5nMQ0-1jqFs)
-- 2008-??-??: [2008 interview](https://www.youtube.com/watch?v=0ygRqjBQAUk)
+- 2008-11-07: [Web 2.0 Summit](https://www.youtube.com/watch?v=gVwmNaPsxLc)
+- 2008-09-18: [Zeitgeist 2008](https://www.youtube.com/watch?v=s3RlCVtQ6mA)
+- 2008-05-17: [TiEcon 2008](https://www.youtube.com/watch?v=5nMQ0-1jqFs)
+- 2008-??-??: [2008 interview](https://www.youtube.com/watch?v=5nMQ0-1jqFs)
 - 2008-??-??: [VPRO Interview](https://www.youtube.com/watch?v=0ygRqjBQAUk)
 
 ## 2007
 
-- 2007-07-24: [AIAA Houston 2007](https://www.youtube.com/watch?v=tqoLRlpROG8)
-- 2007-01-03: [PBS Wired](https://www.youtube.com/watch?v=rjtGymA4rfU)
+- 2007-05-23: [AIAA Houston 2007](https://www.youtube.com/watch?v=XmKodBNV9RM)
+- 2007-01-03: [PBS Wired](https://www.youtube.com/watch?v=b0e8Ffh75qc)
 - 2007-??-??: [South African TV Interview](https://www.youtube.com/watch?v=rjtGymA4rfU)
 
 ## 2006
