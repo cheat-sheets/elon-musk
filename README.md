@@ -42,7 +42,7 @@
 - 2024-02-20: [Katherine Brodsky X Spaces](https://youtu.be/ufrVfVosM6I?si=Qh6XgLd1kcQRn-n6)
 - 2024-02-12: [RFK Jr. X Spaces](https://youtu.be/fFpk0HAIVYA?si=3hkLjCM6wvygUdwS)
 - 2024-02-12: [Vivek X Spaces](https://youtu.be/mQ-NRDNlq4E?si=yOAoa5Ivpw59ARIP)
-- 2024-01-23: [“Irish Hate Speech Bill”](https://youtu.be/bh4oduDYQDw?si=x6DjeWw8QLKDcALk)
+- 2024-01-23: [Irish Hate Speech Bill](https://youtu.be/bh4oduDYQDw?si=x6DjeWw8QLKDcALk)
 - 2024-01-22: [Elon & Ben Shapiro](https://youtu.be/JGdbFGANapk?si=h8_2WgIHG4DLPv7o)
 - 2024-01-22: [Elon & Ben Shapiro](https://youtu.be/Cut_dByoKek?si=JVzhXwr-cnkrxr6s)
 - 2024-01-12: [SpaceX 2023 All Hands](https://x.com/SpaceX/status/1745941814165815717)
