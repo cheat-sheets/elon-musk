@@ -267,6 +267,16 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 ## 2024
 
 - 2024-Q3: [Tesla Q3 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ScxNmPREZtg&ab_channel=Tesla) 
+  - Record Q3 & Profitability: Tesla achieved record deliveries and remained profitable despite industry headwinds, 
+    producing its 7 millionth vehicle.
+  - Autonomous Driving Leads: Major progress in Full Self-Driving (FSD), aiming to surpass human safety levels by Q2 
+    next year and launching ride-hailing in California and Texas.
+  - Affordable EV & Cybertruck Growth: Tesla is on track for 20-30% vehicle growth next year with more affordable 
+    models coming in H1 2025, and Cybertruck volume production targeted for 2026.
+  - Energy & Manufacturing Boom: Energy storage is growing rapidly with strong margins. Manufacturing innovations 
+    for Cybertruck and robotaxi will revolutionize production efficiency.
+  - Long-Term Vision: Tesla is confident in becoming the most valuable company, driven by its leadership in EVs, 
+    autonomy, energy, robotics (Optimus), and AI, despite current economic challenges.
 - 2024-Q2: [Tesla Q2 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ktkCRVxTuEI) 
 - 2024-Q1: [Tesla Q1 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=o81Rs-w3YMY) 
 - 2023-Q4: [Tesla Q4 and full year 2023 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=A_2Z-AEtdAg) 
