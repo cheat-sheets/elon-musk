@@ -285,3 +285,9 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 - 2022-Q4: [Tesla Q4 and full year 2022 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=BgbF4ZqTxTc) 
 - 2022-Q3: [Tesla Q3 2022 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=7FUMrHyStf0) 
 - [Full list](https://ir.tesla.com/#quarterly-disclosure)
+
+# References
+
+- Video transcription: 
+  - https://github.com/ArthurFDLR/whisper-youtube?tab=readme-ov-file
+  - https://colab.research.google.com/github/ArthurFDLR/whisper-youtube/blob/main/whisper_youtube.ipynb
