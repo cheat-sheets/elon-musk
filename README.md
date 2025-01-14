@@ -87,6 +87,7 @@
 
 ## 2022
 
+- 2022-12-02: [Tesla Semi Delivery Event](https://www.youtube.com/watch?v=LtOqU2o81iI)
 - 2022-11-15: [G20 Interview](https://youtu.be/QsR05Egnook)
 - 2022-11-14: [Indonesian Education Minister](https://youtu.be/l8sMFMBfFrM)
 - 2022-11-09: [Twitter Spaces - Advertisers](https://www.youtube.com/watch?v=GqhFQpRZ_5U)
