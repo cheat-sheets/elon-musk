@@ -10,6 +10,7 @@
 
 ## 2025
 
+- 2025-01-26: [Elon Musk's speech at AfD party convention](https://x.com/Alice_Weidel/status/1883455266861232295)
 - 2025-01-13: [Briefing with fire command team for the Palisades fire](https://x.com/elonmusk/status/1878642981307388412)
 - 2025-01-10: [Conversation between Elon Musk and Alice Weidel, co-chairwoman of Germany's AfD party](https://x.com/ElonClipsX/status/1877454219827098052)
 
