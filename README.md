@@ -267,6 +267,7 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 
 # Tesla Earning Calls
 
+- 2024-Q4: [Tesla Q4 and full year 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=Gub5qCTutZo&ab_channel=Tesla)
 - 2024-Q3: [Tesla Q3 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ScxNmPREZtg&ab_channel=Tesla) 
   - Record Q3 & Profitability: Tesla achieved record deliveries and remained profitable despite industry headwinds, 
     producing its 7 millionth vehicle.
