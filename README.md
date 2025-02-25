@@ -10,7 +10,9 @@
 
 ## 2025
 
-- 2025-01-17: [World Government Summit 2025 in Dubai on DOGE, AI, and Boring Cities](https://x.com/HSajwanization/status/1890047875419435291)
+- 2025-02-20: [Elon Musk CPAC 2025 Day One](https://www.youtube.com/watch?v=fCB9aLZGJSQ)
+- 2025-02-18: [Sean Hannity Interview on FoxNews](https://www.foxnews.com/video/6369030618112)
+- 2025-02-13: [World Government Summit 2025 in Dubai on DOGE, AI, and Boring Cities](https://x.com/HSajwanization/status/1890047875419435291)
 - 2025-01-26: [Elon Musk's speech at AfD party convention](https://x.com/Alice_Weidel/status/1883455266861232295)
 - 2025-01-13: [Briefing with fire command team for the Palisades fire](https://x.com/elonmusk/status/1878642981307388412)
 - 2025-01-10: [Conversation between Elon Musk and Alice Weidel, co-chairwoman of Germany's AfD party](https://x.com/ElonClipsX/status/1877454219827098052)
