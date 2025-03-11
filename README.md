@@ -10,6 +10,7 @@
 
 ## 2025
 
+- 2025-03-10: [Interview with Larry Kudlow on Fox Business](https://www.youtube.com/watch?v=T6DiMIJIvYw)
 - 2025-02-20: [Elon Musk CPAC 2025 Day One](https://www.youtube.com/watch?v=fCB9aLZGJSQ)
 - 2025-02-18: [Sean Hannity Interview on FoxNews](https://www.foxnews.com/video/6369030618112)
 - 2025-02-13: [World Government Summit 2025 in Dubai on DOGE, AI, and Boring Cities](https://x.com/HSajwanization/status/1890047875419435291)
@@ -156,7 +157,7 @@
 
 ## 2018
 
-- 2018-12-09: [60 Minutes - “I do not respect the SEC”](https://www.youtube.com/playlist?list=PLI1yx5Z0Lrv7vSu4BMeULh3A9-GIz4mHR)
+- 2018-12-09: [60 Minutes - "I do not respect the SEC"](https://www.youtube.com/playlist?list=PLI1yx5Z0Lrv7vSu4BMeULh3A9-GIz4mHR)
 - 2018-08-17: [MKBHD Elon Interview](https://www.youtube.com/watch?v=MevKTPN4ozw)
 - 2018-08-17: [MKBHD Factory Tour](https://www.youtube.com/watch?v=mr9kK0_7x08)
 - 2018-09-06: [Joe Rogan #1](https://www.youtube.com/watch?v=ycPr5-27vSI)
@@ -166,7 +167,7 @@
 
 - 2017-09-28: [Making Life Multiplanetary](https://www.youtube.com/watch?v=tdUX3ypDVwI)
 - 2017-07-19: [ISS R&D Conference](https://www.youtube.com/watch?v=BqvBhhTtUm4)
-- 2017-07-15: [National Governer’s Association](https://www.youtube.com/watch?v=b3lzEQANdHk)
+- 2017-07-15: [National Governer's Association](https://www.youtube.com/watch?v=b3lzEQANdHk)
 - 2017-07-12: [South Australia Press Meeting](https://www.youtube.com/watch?v=aTXwXlRDGVI)
 - 2017-05-03: [TED Conference 2017](https://www.youtube.com/watch?v=zIwLWfaAg-8)
 - 2017-02-15: [WGS17](https://www.youtube.com/watch?v=rCoFKUJ_8Yo)
@@ -183,7 +184,7 @@
 ## 2015
 
 - 2015-10-08: [Elon Musk and Sam Altman Vanity Fair](https://www.youtube.com/watch?v=SqEo107j-uw)
-- 2015-10-07: [Stanford - Elon Musk’s Vision of The Future](https://www.youtube.com/watch?v=SVk1hb0ZOrE)
+- 2015-10-07: [Stanford - Elon Musk's Vision of The Future](https://www.youtube.com/watch?v=SVk1hb0ZOrE)
 - 2015-07-07: [ISSRDC 2015](https://www.youtube.com/watch?v=ZmEg95wPiVU)
 - 2015-03-22: [Elon Interview with Neil deGrasse Tyson](https://www.youtube.com/watch?v=5RkMwBUFgFM)
 - 2015-03-17: [GTC 2015](https://www.youtube.com/watch?v=TDm6Snkle70)
