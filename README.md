@@ -10,6 +10,7 @@
 
 ## 2025
 
+- 2025-03-17: [Elon Musk on Verdict with Ted Cruz Ep. 214](https://www.youtube.com/watch?v=BDREZmpkIz8)
 - 2025-03-10: [Interview with Larry Kudlow on Fox Business](https://www.youtube.com/watch?v=T6DiMIJIvYw)
 - 2025-02-20: [Elon Musk CPAC 2025 Day One](https://www.youtube.com/watch?v=fCB9aLZGJSQ)
 - 2025-02-18: [Sean Hannity Interview on FoxNews](https://www.foxnews.com/video/6369030618112)
