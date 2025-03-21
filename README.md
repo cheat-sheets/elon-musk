@@ -10,6 +10,7 @@
 
 ## 2025
 
+- 2025-03-20: [Q1 2025 Tesla All-Hands](https://x.com/i/broadcasts/1DXxyqnNoqbxM)
 - 2025-03-17: [Elon Musk on Verdict with Ted Cruz Ep. 214](https://www.youtube.com/watch?v=BDREZmpkIz8)
 - 2025-03-10: [Interview with Larry Kudlow on Fox Business](https://www.youtube.com/watch?v=T6DiMIJIvYw)
 - 2025-02-20: [Elon Musk CPAC 2025 Day One](https://www.youtube.com/watch?v=fCB9aLZGJSQ)
