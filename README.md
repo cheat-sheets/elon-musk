@@ -10,6 +10,7 @@
 
 ## 2025
 
+- 2025-03-28: [Elon Musk and DOGE team give behind the scenes look at their mission on Fox News](https://www.youtube.com/watch?v=l7kQNwJ4H_w&ab_channel=FoxNews)
 - 2025-03-20: [Q1 2025 Tesla All-Hands](https://x.com/i/broadcasts/1DXxyqnNoqbxM)
 - 2025-03-17: [Elon Musk on Verdict with Ted Cruz Ep. 214](https://www.youtube.com/watch?v=BDREZmpkIz8)
 - 2025-03-10: [Interview with Larry Kudlow on Fox Business](https://www.youtube.com/watch?v=T6DiMIJIvYw)
