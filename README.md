@@ -275,6 +275,17 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 
 # Tesla Earning Calls
 
+- 2025-Q1: [Tesla Q1 2025 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=vs4cfyyMWhQ&ab_channel=Tesla)
+  - Robotaxi and Autonomy Rollout: Tesla is on track to launch fully autonomous, unsupervised robotaxi rides in 
+    Austin by June 2025, starting with Model Y vehicles. Elon Musk emphasized this as a pivotal moment, projecting 
+    millions of autonomous Teslas in operation by the second half of 2026.
+	- Optimus and Manufacturing Innovations: Tesla plans to deploy thousands of Optimus humanoid robots in its factories 
+    by the end of 2025 and aims to reach 1 million units annually by 2030. They also highlighted the revolutionary 
+    "unboxed" manufacturing method for future vehicle production, aiming for an industry-leading cycle time of one car 
+    every 5 seconds.
+	- Tariffs and Supply Chain Strategy: Tesla is mitigating the impact of rising tariffs by accelerating supply 
+    chain localization, particularly in North America, China, and Europe. However, new U.S. tariffs are expected 
+    to significantly affect the energy business and capex due to reliance on Chinese components and equipment.
 - 2024-Q4: [Tesla Q4 and full year 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=Gub5qCTutZo&ab_channel=Tesla)
 - 2024-Q3: [Tesla Q3 2024 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=ScxNmPREZtg&ab_channel=Tesla) 
   - Record Q3 & Profitability: Tesla achieved record deliveries and remained profitable despite industry headwinds, 
