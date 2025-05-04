@@ -10,6 +10,7 @@
 
 ## 2025
 
+- 2025-05-02: [Jesse Watters interview with DOGE](https://x.com/DOGE/status/1918136123576008802)
 - 2025-04-05: [Elon Musk's full Speech at Italian Deputy Prime Minister Matteo Salvini's 'The League Congress'](https://www.youtube.com/watch?v=deSHpTymgJM)
 - 2025-03-28: [Elon Musk and DOGE team give behind the scenes look at their mission on Fox News](https://www.youtube.com/watch?v=l7kQNwJ4H_w&ab_channel=FoxNews)
 - 2025-03-20: [Q1 2025 Tesla All-Hands](https://x.com/i/broadcasts/1DXxyqnNoqbxM)
