@@ -13,6 +13,7 @@
 - 2025-07-28: [Silicon Valley Tesla Owners interview](https://x.com/teslaownersSV/status/1949944249417429459)
 - 2025-06-19: [Y Combinator interview](https://x.com/ycombinator/status/1935795261126889944)
 - 2025-06-01: [CBS Sunday Morning: Interview with David Pogue](https://www.youtube.com/watch?v=ey1rpNtRADg&ab_channel=CBSSundayMorning)
+- 2025-05-30: [Starship Update with Elon Musk 2025](https://www.youtube.com/watch?v=y9Rv-Q20zRE&ab_channel=TheLaunchPad)
 - 2025-05-28: [Everyday Astronaut Starship Flight 9 interview](https://x.com/Erdayastronaut/status/1927466323862335651/video/1)
 - 2025-05-20: [Conversation with Elon Musk: Satya Nadella at Microsoft Build 2025](https://www.youtube.com/watch?v=xqXa-i-Fr-M&ab_channel=Microsoft)
 - 2025-05-13: [Saudi–U.S. Investment Forum: Full interview (clip)](https://x.com/HSajwanization/status/1922315020362289413)
