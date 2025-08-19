@@ -14,6 +14,7 @@
 - 2025-06-19: [Y Combinator interview](https://x.com/ycombinator/status/1935795261126889944)
 - 2025-06-01: [CBS Sunday Morning: Interview with David Pogue](https://www.youtube.com/watch?v=ey1rpNtRADg&ab_channel=CBSSundayMorning)
 - 2025-05-28: [Everyday Astronaut Starship Flight 9 interview](https://x.com/Erdayastronaut/status/1927466323862335651/video/1)
+- 2025-05-20: [Conversation with Elon Musk: Satya Nadella at Microsoft Build 2025](https://www.youtube.com/watch?v=xqXa-i-Fr-M&ab_channel=Microsoft)
 - 2025-05-13: [Saudi–U.S. Investment Forum: Full interview (clip)](https://x.com/HSajwanization/status/1922315020362289413)
 - 2025-05-02: [Jesse Watters interview with DOGE](https://x.com/DOGE/status/1918136123576008802)
 - 2025-04-05: [Elon Musk's full Speech at Italian Deputy Prime Minister Matteo Salvini's 'The League Congress'](https://www.youtube.com/watch?v=deSHpTymgJM)
