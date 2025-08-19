@@ -10,7 +10,9 @@
 
 ## 2025
 
+- 2025-06-01: [CBS Sunday Morning: Interview with David Pogue](https://www.youtube.com/watch?v=ey1rpNtRADg&ab_channel=CBSSundayMorning)
 - 2025-05-28: [Everyday Astronaut Starship Flight 9 interview](https://x.com/Erdayastronaut/status/1927466323862335651/video/1)
+- 2025-05-13: [Saudi–U.S. Investment Forum: Full interview (clip)](https://x.com/HSajwanization/status/1922315020362289413)
 - 2025-05-02: [Jesse Watters interview with DOGE](https://x.com/DOGE/status/1918136123576008802)
 - 2025-04-05: [Elon Musk's full Speech at Italian Deputy Prime Minister Matteo Salvini's 'The League Congress'](https://www.youtube.com/watch?v=deSHpTymgJM)
 - 2025-03-28: [Elon Musk and DOGE team give behind the scenes look at their mission on Fox News](https://www.youtube.com/watch?v=l7kQNwJ4H_w&ab_channel=FoxNews)
