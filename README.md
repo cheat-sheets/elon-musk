@@ -4,6 +4,7 @@
 
 - [Interviews](#interviews)
 - [Quotes](#quotes)
+- [Starship Flights](#starship-flights)
 - [Tesla Earning Calls](#tesla-earning-calls)
 
 # Interviews
@@ -281,6 +282,19 @@ The list of interviews, up to 2024-04-08, has been sourced from https://www.ever
 - "If you want to do things like me you have to learn how to be good at technology, 
 study engineering, physics that kind of thing, understand how the World works and try to be as accurate as possible, 
 try to be creative, you have to think until your brain hurts." - https://x.com/iam_smx/status/1851984833125179621
+
+# Starship Flights
+
+- IFT-1 — 2023-04-20: [X](https://x.com/SpaceX/status/1649033533846097927) | [YouTube](https://www.youtube.com/watch?v=-1wcilQ58hI)
+- IFT-2 — 2023-11-18: [X](https://x.com/SpaceX/status/1725637151176659003) | [YouTube](https://www.youtube.com/watch?v=C3iHAgwIYtI)
+- IFT-3 — 2024-03-14: [X](https://x.com/SpaceX/status/1768258691319689232) | [YouTube](https://www.youtube.com/watch?v=ApMrILhTulI)
+- IFT-4 — 2024-06-06: [X](https://x.com/SpaceX/status/1798098040588480826) | [YouTube](https://www.youtube.com/watch?v=j2BdNDTlWbo)
+- IFT-5 — 2024-10-13: [X](https://x.com/SpaceX/status/1845210284270682178) | [YouTube](https://www.youtube.com/watch?v=hI9HQfCAw64)
+- IFT-6 — 2024-11-19: [X](https://x.com/SpaceX/status/1857622520154960080) | [YouTube](https://www.youtube.com/watch?v=CMGiNKcVSek)
+- IFT-7 — 2025-01-16: [X](https://x.com/SpaceX/status/1879288668101497144) | [YouTube](https://www.youtube.com/watch?v=Pn6e1O5bEyA)
+- IFT-8 — 2025-03-06: [X](https://x.com/SpaceX/status/1896292505408204843)
+- IFT-9 — 2025-05-27: [X](https://x.com/SpaceX/status/1925929228232474849)
+- IFT-10 — 2025-08-26: [X](https://x.com/SpaceX/status/1960179929204596907)
 
 # Tesla Earning Calls
 
