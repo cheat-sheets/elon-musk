@@ -298,6 +298,14 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 
 # Tesla Earning Calls
 
+- 2025-Q2: [Tesla Q2 2025 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=pLjG7a-NX7U&ab_channel=Tesla)
+  - Robotaxi and Autonomy Expansion: Tesla successfully launched its robo taxi service in Austin with no one in the driver's seat and paying customers. The service area in Austin is expanding rapidly with plans to cover half the US population by the end of 2025 pending regulatory approvals. Full self-driving (FSD) adoption continues to grow, improving vehicle safety and customer experience.
+
+  - Optimus Robot Production and AI: The Optimus humanoid robot design has matured with production expected to start early next year. Tesla aims to scale production to one million units annually within five years. Significant advances in AI software and hardware are driving improvements in both autonomy for cars and robotics.
+
+  - Manufacturing and Energy Business Developments: Tesla ramped up production of the new Model Y globally and achieved record Powerwall deployments despite challenges from tariffs and supply chain issues. Energy storage capacity is expanding rapidly with gigawatt-scale battery factories. Tesla is focused on investments in AI compute and vehicle programs to sustain long-term growth.
+
+  - Regulatory, Market, and Financial Outlook: Tesla is navigating regulatory challenges for FSD in Europe and China while managing the expiration of US EV tax credits and tariff impacts. Automotive revenue grew 19% sequentially despite delivery constraints. The company remains optimistic about a transformative future driven by AI, autonomy, energy, and robotics innovation.
 - 2025-Q1: [Tesla Q1 2025 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=vs4cfyyMWhQ&ab_channel=Tesla)
   - Robotaxi and Autonomy Rollout: Tesla is on track to launch fully autonomous, unsupervised robotaxi rides in 
     Austin by June 2025, starting with Model Y vehicles. Elon Musk emphasized this as a pivotal moment, projecting 
