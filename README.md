@@ -11,6 +11,7 @@
 
 ## 2025
 
+- 2025-09-10: [Elon Musk at the All-In Summit](https://x.com/theallinpod/status/1965595045932986450)
 - 2025-07-28: [Silicon Valley Tesla Owners interview](https://x.com/teslaownersSV/status/1949944249417429459)
 - 2025-06-19: [Y Combinator interview](https://x.com/ycombinator/status/1935795261126889944)
 - 2025-06-01: [CBS Sunday Morning: Interview with David Pogue](https://www.youtube.com/watch?v=ey1rpNtRADg&ab_channel=CBSSundayMorning)
