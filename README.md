@@ -300,6 +300,8 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 
 # Tesla Earning Calls
 
+- 2025-Q3: [Tesla Q3 2025 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=GQ9S7xbkGAY)
+
 - 2025-Q2: [Tesla Q2 2025 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=pLjG7a-NX7U&ab_channel=Tesla)
   - Robotaxi and Autonomy Expansion: Tesla successfully launched its robo taxi service in Austin with no one in the driver's seat and paying customers. The service area in Austin is expanding rapidly with plans to cover half the US population by the end of 2025 pending regulatory approvals. Full self-driving (FSD) adoption continues to grow, improving vehicle safety and customer experience.
 
