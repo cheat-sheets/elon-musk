@@ -296,6 +296,7 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 - IFT-8 — 2025-03-06: [X](https://x.com/SpaceX/status/1896292505408204843)
 - IFT-9 — 2025-05-27: [X](https://x.com/SpaceX/status/1925929228232474849)
 - IFT-10 — 2025-08-26: [X](https://x.com/SpaceX/status/1960179929204596907)
+- IFT-11 — 2025-10-13: [X](https://x.com/SpaceX/status/1972798064403357887)
 
 # Tesla Earning Calls
 
