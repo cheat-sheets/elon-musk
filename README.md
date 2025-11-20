@@ -12,7 +12,7 @@
 ## 2025
 
 - 2025-11-19: [Elon Musk Delivers Remarks at the U.S.-Saudi Investment Forum](https://www.youtube.com/watch?v=hwBzOceMz08)
-- 2025-11-14: [Elon Musk & Ron Baron Full Interview (timestamped)](https://x.com/XFreeze/status/1989598395586216107)
+- 2025-11-14: [Elon Musk & Ron Baron Full Interview](https://x.com/XFreeze/status/1989598395586216107)
 - 2025-10-31: [Joe Rogan Experience #2404 - Elon Musk](https://www.youtube.com/watch?v=O4wBUysNe2k)
 - 2025-09-10: [Elon Musk at the All-In Summit](https://x.com/theallinpod/status/1965595045932986450)
 - 2025-07-28: [Silicon Valley Tesla Owners interview](https://x.com/teslaownersSV/status/1949944249417429459)
