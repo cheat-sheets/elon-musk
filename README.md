@@ -9,8 +9,21 @@
 
 # Interviews
 
+## 2026
+
+- 2026-07-08: [The Sean Hannity Show — Elon Musk interviewed by Gov. Greg Abbott](https://www.youtube.com/watch?v=eKg-nFDIPkQ)
+- 2026-06-08: [SpaceX Technical Talk: AI Satellites at Scale](https://www.youtube.com/watch?v=yG5Quo6xA74)
+- 2026-05-18: [Forbes: Elon Musk's First Interview Since Jury Rejected Claim Against OpenAI](https://www.forbes.com/video/1862ac5a-787c-4d47-ab91-a360708e5f99/elon-musks-first-interview-since-jury-rejected-claim-against-altmans-openai/)
+- 2026-03-18: [Elon Musk at the Abundance Summit](https://www.youtube.com/watch?v=N5KCm_55xeQ)
+- 2026-02-05: [Dwarkesh Podcast — Elon Musk with Dwarkesh Patel and John Collison](https://www.youtube.com/watch?v=BYXbuik3dgA)
+- 2026-01-22: [Conversation with Elon Musk at the World Economic Forum Annual Meeting](https://www.youtube.com/watch?v=IgifEgm1-e0)
+- 2026-01-13: [Bloomberg: Elon Musk on Making “Star Trek Real”](https://www.bloomberg.com/news/videos/2026-01-13/elon-musk-we-want-to-make-star-trek-real-video)
+- 2026-01-06: [Moonshots #220 — Elon Musk on AGI, China, Jobs, Clean Energy and Humanoid Robots](https://www.youtube.com/watch?v=RSNuB9pj9P8)
+
 ## 2025
 
+- 2025-12-09: [The Katie Miller Podcast Ep. 18 — Elon Musk on DOGE, AI and Simulation Theory](https://www.youtube.com/watch?v=bz5Hjk40FD4)
+- 2025-11-30: [People by WTF Ep. 16 — Elon Musk with Nikhil Kamath](https://www.youtube.com/watch?v=Rni7Fz7208c)
 - 2025-11-19: [Elon Musk Delivers Remarks at the U.S.-Saudi Investment Forum](https://www.youtube.com/watch?v=hwBzOceMz08)
 - 2025-11-14: [Elon Musk & Ron Baron Full Interview](https://x.com/XFreeze/status/1989598395586216107)
 - 2025-10-31: [Joe Rogan Experience #2404 - Elon Musk](https://www.youtube.com/watch?v=O4wBUysNe2k)
@@ -21,6 +34,7 @@
 - 2025-05-30: [Starship Update with Elon Musk 2025](https://www.youtube.com/watch?v=y9Rv-Q20zRE&ab_channel=TheLaunchPad)
 - 2025-05-28: [Everyday Astronaut Starship Flight 9 interview](https://x.com/Erdayastronaut/status/1927466323862335651/video/1)
 - 2025-05-20: [Conversation with Elon Musk: Satya Nadella at Microsoft Build 2025](https://www.youtube.com/watch?v=xqXa-i-Fr-M&ab_channel=Microsoft)
+- 2025-05-20: [Bloomberg Qatar Economic Forum — Elon Musk on AI, Innovation and Government](https://www.bloomberg.com/news/videos/2025-05-20/musk-on-ai-innovation-and-government-at-qef-video)
 - 2025-05-13: [Saudi–U.S. Investment Forum: Full interview (clip)](https://x.com/HSajwanization/status/1922315020362289413)
 - 2025-05-02: [Jesse Watters interview with DOGE](https://x.com/DOGE/status/1918136123576008802)
 - 2025-04-05: [Elon Musk's full Speech at Italian Deputy Prime Minister Matteo Salvini's 'The League Congress'](https://www.youtube.com/watch?v=deSHpTymgJM)
@@ -28,6 +42,7 @@
 - 2025-03-20: [Q1 2025 Tesla All-Hands](https://x.com/i/broadcasts/1DXxyqnNoqbxM)
 - 2025-03-17: [Elon Musk on Verdict with Ted Cruz Ep. 214](https://www.youtube.com/watch?v=BDREZmpkIz8)
 - 2025-03-10: [Interview with Larry Kudlow on Fox Business](https://www.youtube.com/watch?v=T6DiMIJIvYw)
+- 2025-02-28: [Joe Rogan Experience #2281 — Elon Musk](https://www.joeroganpodcast.org/episodes/2281-elon-musk)
 - 2025-02-20: [Elon Musk CPAC 2025 Day One](https://www.youtube.com/watch?v=fCB9aLZGJSQ)
 - 2025-02-18: [Sean Hannity Interview on FoxNews](https://www.foxnews.com/video/6369030618112)
 - 2025-02-13: [World Government Summit 2025 in Dubai on DOGE, AI, and Boring Cities](https://x.com/HSajwanization/status/1890047875419435291)
