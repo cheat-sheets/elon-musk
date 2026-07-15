@@ -315,9 +315,11 @@ try to be creative, you have to think until your brain hurts." - https://x.com/i
 - IFT-9 — 2025-05-27: [X](https://x.com/SpaceX/status/1925929228232474849)
 - IFT-10 — 2025-08-26: [X](https://x.com/SpaceX/status/1960179929204596907)
 - IFT-11 — 2025-10-13: [X](https://x.com/SpaceX/status/1972798064403357887)
+- IFT-12 — 2026-05-22: [X](https://x.com/i/broadcasts/1pKkOykQRgNKj)
 
 # Tesla Earning Calls
 
+- 2026-Q1: [Tesla Q1 2026 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=qO7T5zgRvXM)
 - 2025-Q4: [Tesla Q4 and Full Year 2025 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=oK0UZEE9GPo)
 - 2025-Q3: [Tesla Q3 2025 Financial Results and Q&A Webcast](https://www.youtube.com/watch?v=GQ9S7xbkGAY)
 
